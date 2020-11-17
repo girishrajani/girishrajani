@@ -4,8 +4,7 @@
 <br>
 
 [![button](./tweet3.jpg)](https://twitter.com/girishrajani162)
-[![button](./insta.png)](https://twitter.com/girishrajani162)
-[![button](./link.png)](https://twitter.com/girishrajani162)
-[![button](./git.png)](https://twitter.com/girishrajani162)
-[![button](./med.png)](https://twitter.com/girishrajani162)
+[![button](./link.png)](https://www.linkedin.com/in/girish-rajani/)
+[![button](./git.png)](https://github.com/girishrajani/)
+[![button](./med.png)](https://girish-r-rajani.medium.com/)
 
