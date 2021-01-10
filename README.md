@@ -22,4 +22,4 @@
 - ☕☕ Always out there looking for some Caffeine
 
 
-![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true)
+![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=dark)
