@@ -13,7 +13,7 @@
 <a href="https://play.google.com/store/apps/developer?id=Girish+Rajani">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"  />
 </a>
-<a href="http://girishrajani.github.io/WeatherBot">
+<a href="https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D799485174269739038%26permissions%3D515136%26scope%3Dbot">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"  />
 </a>
 
