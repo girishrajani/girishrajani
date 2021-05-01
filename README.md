@@ -25,3 +25,4 @@
 
 
 ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=dark)
+![Girish's's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girishrajani&theme=dark&hide_langs_below=1)
