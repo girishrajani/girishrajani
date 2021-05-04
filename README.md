@@ -31,8 +31,6 @@
 <img src = './assets/badge.png' height=70 >
 </a>
 <br>
-<br>
-<br>
 
 ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
 ![Girish's's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girishrajani&theme=tokyonight&layout=compact&hide_border=true)
