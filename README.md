@@ -28,8 +28,7 @@
 <br>
 
 ### Check Out the TreeTracker App
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/epdKlguk3m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a href='https://play.google.com/store/apps/details?id=com.treetracker.app'>
+[![YT Thumbnail](./assets/sc.PNG)](https://www.youtube.com/watch?v=epdKlguk3m4 "TreeTracker")
 <img src = './assets/badge.png' height=70 >
 </a>
 <br>
