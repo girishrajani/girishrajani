@@ -24,8 +24,7 @@
 - Founder and Lead Programmer at <a href="https://github.com/TreeTracker">TreeTracker</a><br>
 - Web Developer at <a href="https://cosmoclub.in">CosmoClub</a>
 <br>
-<br>
-<br>
+
 
 ### Check Out the TreeTracker App
 [![YT Thumbnail](./assets/sc.PNG)](https://www.youtube.com/watch?v=epdKlguk3m4 "TreeTracker")
