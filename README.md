@@ -10,7 +10,7 @@
 <a href="https://girish-r-rajani.medium.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://play.google.com/store/apps/developer?id=Girish+Rajani">
+<a href="https://play.google.com/store/apps/developer?id=TreeTracker">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"  />
 </a>
 <a href="https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D799485174269739038%26permissions%3D515136%26scope%3Dbot">
