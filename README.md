@@ -30,9 +30,16 @@
 
 
 ## Check Out the TreeTracker🌱 App
-[![YT Thumbnail](./assets/sc.PNG)](https://www.youtube.com/watch?v=epdKlguk3m4 "TreeTracker")
-<img src = './assets/badge.png' height=70 >
+
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.treetracker.app">
+  <img src = './assets/tree2.png' href="">
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.treetracker.app">
+  <img src = './assets/badge.png' height=70 >
+</a>
+</a>
+<br>
 <br>
 
 ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
