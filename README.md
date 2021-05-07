@@ -1,4 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Girish!
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Girish!
+
  
 <a href="https://www.linkedin.com/in/girish-rajani/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -20,13 +21,15 @@
 
 <br>
 <br>
-<br>
-- Founder and Lead Programmer at <a href="https://github.com/TreeTracker">TreeTracker</a><br>
-- Web Developer at <a href="https://cosmoclub.in">CosmoClub</a>
-<br>
+
+## I'm a  Developer! 💻
+
+* Founder and Lead Programmer at <a href="https://github.com/TreeTracker">TreeTracker</a>🌱
+* Web Developer at <a href="https://cosmoclub.in">CosmoClub</a> 🌟
 
 
-### Check Out the TreeTracker App
+
+## Check Out the TreeTracker🌱 App
 [![YT Thumbnail](./assets/sc.PNG)](https://www.youtube.com/watch?v=epdKlguk3m4 "TreeTracker")
 <img src = './assets/badge.png' height=70 >
 </a>
