@@ -22,25 +22,9 @@
 <br>
 <br>
 
-## I'm a  Developer! 💻
-
-* Founder and Lead Programmer at <a href="https://github.com/TreeTracker">TreeTracker</a>🌱
-* Web Developer at <a href="https://cosmoclub.in">CosmoClub</a> 🌟
+### I'm a  Developer! 💻
 
 
-
-## Check Out the TreeTracker🌱 App
-
-<br>
-<a href="https://play.google.com/store/apps/details?id=com.treetracker.app">
-  <img src = './assets/tree2.png' href="">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.treetracker.app">
-  <img src = './assets/badge.png' height=70 >
-</a>
-</a>
-<br>
-<br>
 
 ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
 ![Girish's's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girishrajani&theme=tokyonight&layout=compact&hide_border=true)
