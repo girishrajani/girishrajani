@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### I'm a  Developer! 💻
+### I like Programming and Developing  Apps in my Free Time! 👨‍💻💻
 
 
 
