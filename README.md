@@ -24,7 +24,7 @@
 
 ### I like Programming and Developing  Apps in my Free Time! 👨‍💻💻
 
-Check out some of my developed apps here:
+Check out some of my developed apps here:<br>
 <a href="https://play.google.com/store/apps/details?id=app.everything.space"> Everything Space </a> <br>
 <a href="https://play.google.com/store/apps/details?id=com.girish.iss_tracker">ISS Tracker</a> <br>
 <a href="https://play.google.com/store/apps/details?id=com.treetracker.app">Tree Tracker</a> <br>
