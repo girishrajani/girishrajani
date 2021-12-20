@@ -22,12 +22,5 @@
 <br>
 <br>
 
-### I like Programming and Developing  Apps in my Free Time! 👨‍💻💻
-
-Check out some of my developed apps here:<br>
-<a href="https://play.google.com/store/apps/details?id=app.everything.space"> Everything Space </a> <br>
-<a href="https://play.google.com/store/apps/details?id=com.girish.iss_tracker">ISS Tracker</a> <br>
-<a href="https://play.google.com/store/apps/details?id=com.treetracker.app">Tree Tracker</a> <br>
-
 ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
 ![Girish's's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girishrajani&theme=tokyonight&layout=compact&hide_border=true)
