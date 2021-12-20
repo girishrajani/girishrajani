@@ -7,10 +7,6 @@
 <a href="https://twitter.com/girishrajani162">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<a href="https://girish-r-rajani.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 <a href="https://play.google.com/store/apps/developer?id=Girish+Rajani">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"  />
 </a>
