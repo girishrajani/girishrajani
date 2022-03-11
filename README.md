@@ -9,14 +9,11 @@
 </a>
 <a href="https://play.google.com/store/apps/developer?id=Girish+Rajani">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"  />
-</a>
-<a href="https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D799485174269739038%26permissions%3D515136%26scope%3Dbot">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"  />
-</a>
 
 
 <br>
 <br>
 
-![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
+<!-- ![Girish's's github stats](https://github-readme-stats.vercel.app/api?username=girishrajani&show_icons=true&hide_border=true&theme=tokyonight)
 ![Girish's's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girishrajani&theme=tokyonight&layout=compact&hide_border=true)
+ -->
