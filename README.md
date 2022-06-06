@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Girish!
+# Hey, I'm Girish!
 
  
 <a href="https://www.linkedin.com/in/girish-rajani/">
